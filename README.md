@@ -13,5 +13,5 @@
   - git push -u origin pr2
   ##**Результат**
   При помощи компилятора gcc была проверена работоспособность програм, ниже будут продемонстрированы скрины
-  [https://cloclo40.datacloudmail.ru/view/timp2.png]
+  ![alt text] (https://cloclo42.datacloudmail.ru/view/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/timp2.png?etag=2777E267B3F6893C7B8DA0CBA30538BA7BB4805B&x-email=kyzalox%40mail.ru)
   
