@@ -39,7 +39,7 @@
 |               | 0             |          |
 |               |  2            |          |
 
- ![alt text](https://pp.userapi.com/c846417/v846417645/1ab731/iCuJ8IrQh1A.jpg)
+ ![alt text](https://pp.userapi.com/c846417/v846417645/1ab72a/nE_yxeloDas.jpg)
  
   ### *Вторая программа*
   
@@ -49,7 +49,7 @@
  |               | 2             |          |
  |               | 3             |          |
  
-![alt text](https://pp.userapi.com/c847220/v847220041/1af4b9/AubmLus0S2I.jpg)
+![alt text](https://pp.userapi.com/c846417/v846417645/1ab731/iCuJ8IrQh1A.jpg)
 
  Выше был продемонстрирован краткий экскурс по данной практической работе, ниже будут представленны ссылки на источники, которые были использованы для оформления данного документа.
  
