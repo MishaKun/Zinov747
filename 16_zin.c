@@ -14,5 +14,5 @@ number = abs(number);
 rez = rez + (pow(-1,i+1)*pow(number,3));
 number = 0 ;
 }
-printf("%d",rez);
+printf("%d", rez);
 }
