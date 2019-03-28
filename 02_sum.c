@@ -1,9 +1,8 @@
 #include <stdio.h>
-int main (void)
+int main ()
 {
     int q,w,e;
     scanf("%d%d",&q,&w);
-    e=q+w;
-    printf("%d\n",e);
+    printf("%d\n",e = q+w);
     return 0;
 }
