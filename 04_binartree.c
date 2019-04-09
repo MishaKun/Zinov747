@@ -87,17 +87,17 @@ int insert(tr *tree, int comich) {
 	if (u->comich == tree->root->comich)
 		return -1;
 
-	w *root2 = (w*)malloc(sizeof(w)), *root3 = NULL;
+	w *r = (w*)malloc(sizeof(w)), *root3 = NULL;
 
-	root2 = tree->root;
+	r = tree->root;
 
-	while (root2 != NULL)
+	while (r != NULL)
 	{
-		root3 = root2;
-		if (comich < root2->comich)
-			root2 = root2->left;
+		root3 = r;
+		if (comich < r->comich)
+			r = r->left;
 		else
-			root2 = root2->right;
+			r = r ->right;
 	}
 
 	if (u->comich == root3->comich) {
