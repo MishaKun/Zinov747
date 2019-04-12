@@ -31,4 +31,5 @@ int main()
   ShellSort(n,m); 
   for (int i = 0; i<n; i++)
     printf("%d ", m[i]);
+    printf("\n");
 }
