@@ -128,4 +128,5 @@ int main() {
 }
 tree = tree->root;
 	print(tree);
+	printf("\n");
 }
