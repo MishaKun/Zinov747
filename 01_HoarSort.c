@@ -45,6 +45,7 @@ int main()
     sorting_function(mass,n);
     for (int i = 0 ;i < n;i++)
     printf("%d ",mass[i]);
+ printf("\n");
 }
 
 
