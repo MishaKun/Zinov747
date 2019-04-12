@@ -192,4 +192,5 @@ int main() {
 		insert(tree, a[i]);
 }
 	print(tree->root);
+	printf("\n");
 }
